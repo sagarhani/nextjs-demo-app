@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Demo application for the talk on [Next.js](https://nextjs.org).
